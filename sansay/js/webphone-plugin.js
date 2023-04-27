@@ -259,7 +259,7 @@
   }
 
   function _fSansayUiXferKey() {
-    _oSansayClient.sendDTMF('#');
+    _oSansayClient.sendDTMF('##');
   }
 
   function _fSansayUiSetVolume(vol) {
